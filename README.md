@@ -1,4 +1,4 @@
-ArcGIS-Python
+AGS_AllFunctionsSecure.py
 =============
 
 This script updates the ArcGIS Server Administration Toolkit - 10.1+.
